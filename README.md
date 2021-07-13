@@ -5,4 +5,4 @@
 
 🌱 I’m currently learning android development
 
-⚡ Fun fact: I learned to build rom because of this COVID-19 QUARANThINg xD
+⚡ Fun fact: I just learned to build rom because of this COVID-19 QUARANThINg xD
